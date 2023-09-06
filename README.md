@@ -1,1 +1,1 @@
-# Linux
+#  Everything to Linux
